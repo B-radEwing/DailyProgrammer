@@ -1,0 +1,9 @@
+This is my collection of solutions to various challenges from reddit's r/dailyprogrammer subreddit.
+
+#154
+Title:Wumpus Cave Game
+Language: Python
+
+r/dailyprogrammer's #154 [Hard] challenge: http://www.reddit.com/r/dailyprogrammer/comments/21kqjq/4282014_challenge_154_hard_wumpus_cave_game/
+
+A text-based rogue-like game. The user inputs commands to explore a randomly generated cave, aiming to score as many points possible before dying. 
